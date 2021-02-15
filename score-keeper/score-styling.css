@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(78, 77, 134);
+}
+
+#score-keeper{
+    margin: 5em auto;
+    width: 500px;
+    height: 500px;
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid whitesmoke;
+    padding: 20px;
+}
+
+h2{
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    
+}
